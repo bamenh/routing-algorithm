@@ -1,8 +1,11 @@
 # Final Project: Intra-Domain Routing Algorithms
 
-## Objective
+## Author
 
-* Implement distance-vector or link-state routing algorithms
+* Student ID and Name
+  23020624 Nguyen Van Luong
+  23020625 Nguyen Ba Manh
+  23020636 Nguyen Huu Hong Phuc
 
 ## Getting Started
 
