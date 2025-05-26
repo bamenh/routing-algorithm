@@ -1,4 +1,4 @@
-# Project 2: Intra-Domain Routing Algorithms
+# Final Project: Intra-Domain Routing Algorithms
 
 ## Objective
 
