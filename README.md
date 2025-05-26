@@ -7,8 +7,6 @@
   23020625 Nguyen Ba Manh  
   23020636 Nguyen Huu Hong Phuc
 
-dules "<your repository>"
-```
 
 When there are updates to the starter code, TFs will open pull requests in your repository. You should merge the pull request and pull the changes back to local. You might need to resolve conflicts manually (either when merging PR in remote or pulling back to local). However, most of the times there shouldn't be too much conflict as long as you do not make changes to test scripts, infrastructures, etc. Reach out to TF if it is hard to merge.
 
