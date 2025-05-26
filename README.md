@@ -7,12 +7,7 @@
   23020625 Nguyen Ba Manh  
   23020636 Nguyen Huu Hong Phuc
 
-## Getting Started
-
-To start this project, you will first need to get the [infrastructure setup](https://github.com/minlanyu/cs145-site/blob/spring2025/infra.md) and clone this repository with submodules
-
-```bash
-git clone --recurse-submodules "<your repository>"
+dules "<your repository>"
 ```
 
 When there are updates to the starter code, TFs will open pull requests in your repository. You should merge the pull request and pull the changes back to local. You might need to resolve conflicts manually (either when merging PR in remote or pulling back to local). However, most of the times there shouldn't be too much conflict as long as you do not make changes to test scripts, infrastructures, etc. Reach out to TF if it is hard to merge.
