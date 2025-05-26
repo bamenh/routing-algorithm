@@ -2,9 +2,9 @@
 
 ## Author
 
-* Student ID and Name
-  23020624 Nguyen Van Luong
-  23020625 Nguyen Ba Manh
+* Student ID and Name  
+  23020624 Nguyen Van Luong  
+  23020625 Nguyen Ba Manh  
   23020636 Nguyen Huu Hong Phuc
 
 ## Getting Started
